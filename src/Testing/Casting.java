@@ -18,9 +18,9 @@ public class Casting {
     }
 
     public static void castingChar() {
-        int valueInt  = 185;
-        char valueChar = (char) valueInt;
-        System.out.println(valueChar);
+        int valorInt  = 185;
+        char valorChar = (char) valorInt;
+        System.out.println(valorChar);
     }
 
     public static void castingOperacoesAritmeticas() {
